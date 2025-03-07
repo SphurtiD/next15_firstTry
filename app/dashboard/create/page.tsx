@@ -3,7 +3,6 @@ import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { handleSubmission } from "@/app/actions";
-import Link from 'next/link'
 import { Submitbutton } from "@/components/general/Submitbutton";
 
 export default function CreateBlogroute() {
